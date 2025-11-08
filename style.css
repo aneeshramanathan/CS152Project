@@ -5,10 +5,14 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Times New Roman', Times, serif !important;
     background: linear-gradient(135deg, #0066cc 0%, #ffb600 100%);
     min-height: 100vh;
     padding: 20px;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif !important;
 }
 
 .container {
